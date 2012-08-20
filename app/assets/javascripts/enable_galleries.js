@@ -4,6 +4,6 @@ $(document).ready(function(){
     panel_height: 300,
     frame_width: 75,
     frame_height: 75,
-    theme_path: '/assets/gallery_view/themes/dark'
+    theme_path: '/assets/gallery_view/themes/light'
   });
 });
